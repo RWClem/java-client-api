@@ -1,3 +1,9 @@
+# Purpose of this fork
+This fork intend to fix the `com.offbytwo.jenkins.model.Build#Stop()` that doesn't seems to work on Jenkins 2.361,  
+as well as to add matching methods for Terminate and Kill.
+
+### Original Readme ensues:
+
 # A Jenkins API Client for Java
 
 [![MIT Licence](https://img.shields.io/github/license/jenkinsci/java-client-api.svg?label=License)](http://opensource.org/licenses/MIT)
